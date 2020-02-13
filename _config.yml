@@ -4,7 +4,7 @@ bio:                'A Systems Security Engineer on a Data Science mission.Join 
 description:        "A Systems Security Engineer on a Data Science mission.Join the roller coaster RIDE!"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://girlytechgeek.github.io/girlytech-geek.github.io/" # the base hostname & protocol for your site
+url: "https://girlytechgeek.github.io/" # the base hostname & protocol for your site
 
 # Comments
 disqus_shortname:   default
