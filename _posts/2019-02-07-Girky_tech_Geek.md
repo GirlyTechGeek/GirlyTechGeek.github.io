@@ -1,5 +1,11 @@
+---
+layout: post
+title:  "GIRLS GO GEEK"
+excerpt: "GirlyTechGeek: girls go geek!"
+image: "/images/images.jpg"
+---
 
-"GIRLS GO GEEK"
-GirlyTechGeek: girls go geek!
-Let's see what it can do
-/images/images.jpg
+
+
+
+
